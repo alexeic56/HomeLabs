@@ -5,7 +5,9 @@
 - <b>Ubuntu Server & SSH Practice</b>
   - [Practicing Ubuntu Server & SSH](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📄 Certifications</h2>
 
+- CompTIA A+ (in progress)
 
 <h2> 🤳 Connect with me:</h2>
 
