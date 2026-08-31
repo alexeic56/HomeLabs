@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexei! <br/><a href="https://www.linkedin.com/in/alexei-carranza56/" target="_blank">Cybersecurity & Networking Technology Student</a>
+<h1>Hi, I'm Alexei! <br/><a href="https://www.linkedin.com/in/alexei-carranza56/">Cybersecurity & Networking Technology Student</a>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
