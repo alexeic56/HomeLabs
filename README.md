@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Ubuntu Server & SSH Practice</b>
-  - [Practicing Ubuntu Server & SSH](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Ubuntu Server & SSH](https://github.com/alexeic56/UbuntuServerSSHLab)
 
 <h2>📄 Certifications</h2>
 
